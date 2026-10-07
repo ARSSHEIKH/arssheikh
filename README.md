@@ -54,7 +54,7 @@
 
 ---
 
-### 🤖 AI Projects
+<!-- ### 🤖 AI Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -64,7 +64,7 @@
 | **DocGenius** | AI-powered business content generation mobile app | React Native, OpenAI, PaLM |
 | **Medical Interpretation App** | Real-time multilingual doctor-patient communication | React Native, Azure STT, ElevenLabs, OpenAI |
 
----
+--- -->
 
 ### 📊 GitHub Stats
 
@@ -89,8 +89,8 @@
 
 --- -->
 
-<div align="center">
+<!-- <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arssheikh&color=blueviolet&style=for-the-badge)
 
-</div>
+</div> -->
